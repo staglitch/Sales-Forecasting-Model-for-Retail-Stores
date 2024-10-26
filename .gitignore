@@ -1,0 +1,15 @@
+# Ignore data files
+data/
+
+# Ignore model files
+models/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env

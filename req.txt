@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+flask
+joblib
+scikit-learn
+statsmodels
+prophet
